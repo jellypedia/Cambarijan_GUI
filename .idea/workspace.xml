@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f93f43-383f-4915-892b-96efab67d078" name="Changes" comment="Leap Year, done">
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="05f93f43-383f-4915-892b-96efab67d078" name="Changes" comment="Calculator">
+      <change beforePath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +71,19 @@
       <option name="project" value="LOCAL" />
       <updated>1700122518024</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Calculator">
+      <created>1700124723383</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700124723383</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Leap Year, done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leap Year, done" />
+    <MESSAGE value="Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calculator" />
   </component>
 </project>

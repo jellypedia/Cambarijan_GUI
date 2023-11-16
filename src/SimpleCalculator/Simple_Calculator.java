@@ -16,27 +16,26 @@ public class Simple_Calculator extends JFrame {
             Simple_Calculator calc = this;
             btnCompute.addActionListener(e -> {
                 String _num1, _num2;
-                int num1, num2;
-                double result;
+                int num1, num2, result;
 
-                _num1 = tfNumber1.getText();
+                _num1 = textField1.getText();
+                _num2 = textField2.getText();
+
                 num1 = Integer.parseInt(_num1);
-
-                _num2 = tfNumber2.getText();
                 num2 = Integer.parseInt(_num2);
 
                 if(cbOperations.getSelectedIndex() == 0) {
                     result = num1 + num2;
-                    textArea1.append(Double.toString(result));
+                    textArea1.append(String.valueOf(result));
                 } else if(cbOperations.getSelectedIndex() == 1) {
                     result = num1 - num2;
-                    textArea1.append(Double.toString(result));
+                    textArea1.append(String.valueOf(result));
                 } else if(cbOperations.getSelectedIndex() == 2) {
                     result = num1 * num2;
-                    textArea1.append(Double.toString(result));
+                    textArea1.append(String.valueOf(result));
                 } else {
                     result = num1 / num2;
-                    textArea1.append(Double.toString(result));
+                    textArea1.append(String.valueOf(result));
                 }
 
             });
