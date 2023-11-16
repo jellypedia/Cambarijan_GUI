@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f93f43-383f-4915-892b-96efab67d078" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeapYear/LeapYear.java" afterDir="false" />
+    <list default="true" id="05f93f43-383f-4915-892b-96efab67d078" name="Changes" comment="Leap Year, done">
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +24,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="44af3b1a-4b95-4869-98c1-a3218d1e1f5c" />
+        <option name="url" value="https://github.com/jellypedia/Cambarijan_GUI.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,6 +52,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "314",
     "last_opened_file_path": "C:/Users/L12Y16W03/IdeaProjects/GUI_110923",
     "settings.editor.selected.configurable": "preferences.general"
   }
@@ -52,6 +66,18 @@
       <option name="presentableId" value="Default" />
       <updated>1700120017748</updated>
     </task>
+    <task id="LOCAL-00001" summary="Leap Year, done">
+      <created>1700122518024</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700122518024</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Leap Year, done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leap Year, done" />
   </component>
 </project>
