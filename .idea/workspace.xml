@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="05f93f43-383f-4915-892b-96efab67d078" name="Changes" comment="Calculator">
-      <change beforePath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.java" afterDir="false" />
+    <list default="true" id="05f93f43-383f-4915-892b-96efab67d078" name="Changes" comment="Simple Calculator">
+      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/Food_Ordering_System.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FoodOrderingSystem/Food_Ordering_System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/SimpleCalculator/Simple_Calculator.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "314",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "402",
     "last_opened_file_path": "C:/Users/L12Y16W03/IdeaProjects/GUI_110923",
     "settings.editor.selected.configurable": "preferences.general"
   }
@@ -78,12 +81,20 @@
       <option name="project" value="LOCAL" />
       <updated>1700124723383</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Simple Calculator">
+      <created>1700125088163</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700125088163</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Leap Year, done" />
     <MESSAGE value="Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Calculator" />
+    <MESSAGE value="Simple Calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Simple Calculator" />
   </component>
 </project>
